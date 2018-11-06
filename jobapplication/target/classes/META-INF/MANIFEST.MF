@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: jobapplication>
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sumudunu
+Implementation-Vendor-Id: cg.jobapplication
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/jobapplicati
+ on/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
